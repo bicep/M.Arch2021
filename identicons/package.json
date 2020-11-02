@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "identicon",
+  "version": "1.0.0",
+  "main": "identicon.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "csv": "^5.3.2",
+    "sha1": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
