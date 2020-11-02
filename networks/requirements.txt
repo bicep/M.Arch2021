@@ -36,6 +36,7 @@ python=3.8.6=hcfdab8c_0_cpython
 python-dateutil=2.8.1=py_0
 python_abi=3.8=1_cp38
 readline=8.0=h0678c8f_2
+scipy=1.5.3=py38hb6cd474_0
 setuptools=49.6.0=py38h5347e94_2
 six=1.15.0=pyh9f0ad1d_0
 sqlite=3.33.0=h960bd1c_1
